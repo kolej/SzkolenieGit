@@ -1,2 +1,3 @@
 To jest pierwszy plik
 Dodajemy linijkę
+Jeszcze jedna linijka
